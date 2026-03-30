@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Black Panther
+* Black Widow
