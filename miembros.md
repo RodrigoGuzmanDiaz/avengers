@@ -23,4 +23,5 @@
 * Captain Marvel
 * Falcon
 * Nick Fury
-* Spider Man 
+* Spider Man
+* Capitana Marvel

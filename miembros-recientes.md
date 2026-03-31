@@ -1,2 +1,0 @@
-## Miembros Recientes
-* Capitana Marvel
