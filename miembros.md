@@ -19,3 +19,7 @@
 * Antman
 * Black Panther
 * Black Widow
+* Captain America
+* Captain Marvel
+* Falcon
+* Nick Fury
